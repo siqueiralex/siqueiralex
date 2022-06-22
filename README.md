@@ -1,4 +1,4 @@
-### Hi, I'm Alex Siqueira
+### Hi! I'm Alex Siqueira.
 
 <div align="center">
   <a href="https://github.com/siqueiralex">
